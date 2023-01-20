@@ -1,0 +1,19 @@
+@font-face {  
+	font-family: sukhumvit_light;  
+	src: url('../../fonts/sukhumvit/SukhumvitSet-Light.ttf');
+}
+
+.font-thin{
+	  font-family: sukhumvit_light;
+	   font-size:18px;
+}
+
+@font-face {
+    font-family: sukhumvit_bold;
+    src: url('../../fonts/sukhumvit/SukhumvitSet-Bold.ttf');
+}
+
+.font-bold{
+    font-family:sukhumvit_bold;
+    font-size:38px;
+}

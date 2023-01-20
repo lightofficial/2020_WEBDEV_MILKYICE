@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+html,
+body {
+    background: rgb(240, 240, 240);
+    font-family: 'Poppins', sans-serif;
+}
+
+ ::selection {
+    color: #fff;
+    background: rgb(240, 240, 240);
+}
+
+
+.container-fluid {
+    display: flex;
+    margin-top: 10%;
+    justify-content: center;
+    text-align: center;
+}
+
+.container-fluid .form {
+    background: #fff;
+    padding: 30px 35px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.blue-text {
+    font-size: 28px;
+    font-weight: bold;
+    color: #5757d1;
+}
+
+.red-text {
+    font-size: 28px;
+    font-weight: bold;
+    color: #C80000;
+}
+
+.skyblue-text {
+    font-size: 28px;
+    font-weight: bold;
+    color: #1ca0f4;
+}
+
+.text-dark {
+    font-size: 20px;
+}
+
+/* footer {
+    background: #e9e3d7;
+    color: 424242;
+} */
+
+
+/* .copyright {
+color: #777777;
+text-align: center;
+bottom: 0%;
+} */
+
+
+/* footer {
+    bottom: 0%;
+    position: fixed;
+    width: 100%;
+    color: #424242;
+    text-align: center;
+    position: fixed;
+    z-index: 1;
+} */
+
+.container-fluid .form form .form-control {
+    height: 40px;
+    font-size: 15px;
+}
+
+.container-fluid .form form .forget-pass {
+    margin: -15px 0 15px 0;
+}
+
+.container-fluid .form form .forget-pass a {
+    font-size: 15px;
+}
+
+.container-fluid .form form .button {
+    background: #f45f0d;
+    color: #fff;
+    font-size: 17px;
+    font-weight: 500;
+    transition: all 0.3s ease;
+}
+
+.container-fluid .form form .button:hover {
+    background: #f56a1f;
+}
+
+.container-fluid .form form .link {
+    padding: 5px 0;
+}
+
+.container-fluid .form form .link a {
+    color: #f48f1c;
+}
+
+.container-fluid .login-form form p {
+    font-size: 16px;
+}
+
+.container-fluid .row .alert {
+    font-size: 15px;
+}
+
+.logo {
+    height: 200px;
+}
+
+
+
+  
+/* .col-sm-12 {
+padding: 10px;
+bottom: 0%;
+} */

@@ -1,0 +1,11 @@
+.navbar {
+    background-color: transparent;
+    background: transparent;
+    border-color: transparent;
+ }
+ 
+ .navbar li { color: #000 } 
+
+ .me-auto {
+    margin-right: auto !important;
+  }
